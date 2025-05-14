@@ -1,5 +1,5 @@
 import java.util.*;
-class sol{
+class RearrangeProfitandLoss{
     static void profitandLossAnalyser(int a[]){
        List<Integer> profit = new ArrayList<>();
         List<Integer> loss = new ArrayList<>();
